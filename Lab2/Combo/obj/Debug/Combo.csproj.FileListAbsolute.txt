@@ -1,0 +1,15 @@
+C:\Users\User\Documents\GitHub\OOD_Labs\Lab2\Lab2\Combo\obj\Debug\Combo.csproj.AssemblyReference.cache
+C:\Users\User\Documents\GitHub\OOD_Labs\Lab2\Lab2\Combo\obj\Debug\App.g.cs
+C:\Users\User\Documents\GitHub\OOD_Labs\Lab2\Lab2\Combo\obj\Debug\Combo_MarkupCompile.cache
+C:\Users\User\Documents\GitHub\OOD_Labs\Lab2\Lab2\Combo\bin\Debug\Combo.exe.config
+C:\Users\User\Documents\GitHub\OOD_Labs\Lab2\Lab2\Combo\bin\Debug\Combo.exe
+C:\Users\User\Documents\GitHub\OOD_Labs\Lab2\Lab2\Combo\bin\Debug\Combo.pdb
+C:\Users\User\Documents\GitHub\OOD_Labs\Lab2\Lab2\Combo\obj\Debug\MainWindow.g.cs
+C:\Users\User\Documents\GitHub\OOD_Labs\Lab2\Lab2\Combo\obj\Debug\Combo_MarkupCompile.lref
+C:\Users\User\Documents\GitHub\OOD_Labs\Lab2\Lab2\Combo\obj\Debug\MainWindow.baml
+C:\Users\User\Documents\GitHub\OOD_Labs\Lab2\Lab2\Combo\obj\Debug\Combo.g.resources
+C:\Users\User\Documents\GitHub\OOD_Labs\Lab2\Lab2\Combo\obj\Debug\Combo.Properties.Resources.resources
+C:\Users\User\Documents\GitHub\OOD_Labs\Lab2\Lab2\Combo\obj\Debug\Combo.csproj.GenerateResource.cache
+C:\Users\User\Documents\GitHub\OOD_Labs\Lab2\Lab2\Combo\obj\Debug\Combo.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\OOD_Labs\Lab2\Lab2\Combo\obj\Debug\Combo.exe
+C:\Users\User\Documents\GitHub\OOD_Labs\Lab2\Lab2\Combo\obj\Debug\Combo.pdb
