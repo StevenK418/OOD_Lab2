@@ -6,6 +6,9 @@
         xmlns:local="clr-namespace:Lab2"
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
+    <!--Exercise 1: Grid with buttons. Create a simple 4 x 4 grid with buttons. Place a number of buttons in
+        this grid. Experiment with auto sizing, * sizing and pixel sizing.
+    -->
     <Grid>
         <Grid.ColumnDefinitions>
             <ColumnDefinition Width="*"/>

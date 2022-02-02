@@ -6,6 +6,9 @@
         xmlns:local="clr-namespace:Lab2Q2"
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
+    <!--Exercise 2 : Create a new project in the same solution. Create a simple StackPanel using the code
+        below.
+    -->
     <Grid>
         <StackPanel Orientation="Horizontal">
             <Button Content="Button1"  Width="135" Margin="15 10" />

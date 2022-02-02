@@ -6,6 +6,10 @@
         xmlns:local="clr-namespace:Combo"
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="674.742" ResizeMode="NoResize">
+    <!--Exercise 5 : Combinations
+        We are going to use a combination of Grid and StackPanel to produce the interface below. The large
+        box is a ListBox which spans a number of rows and columns.
+    -->
         <DockPanel>
             <StackPanel Orientation="Horizontal" DockPanel.Dock="Top" Margin="20">
             <Image Source="/icons/guitar.png" Width="30" Height="auto"/>

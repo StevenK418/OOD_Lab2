@@ -6,6 +6,7 @@
         xmlns:local="clr-namespace:Dock"
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
+    <!--Exercise 4: DockPanel. Create a Dock Panel using the code below.-->
     <DockPanel LastChildFill="true">
         <!--<Button Content="Dock-Top" DockPanel.Dock="Top"/>-->
         <TextBlock Background="AliceBlue" DockPanel.Dock="Left" Text="Left"/>

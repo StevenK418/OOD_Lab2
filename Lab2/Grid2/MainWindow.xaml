@@ -6,6 +6,9 @@
         xmlns:local="clr-namespace:Grid2"
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
+    <!--Exercise 3: More Grids. Here play with a grid and use TextBlocks with colour, 
+        using span to spread blocks over several rows/columns.
+    -->
     <Grid>
         <Grid.ColumnDefinitions>
             <ColumnDefinition Width="*"/>
