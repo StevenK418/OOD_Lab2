@@ -8,11 +8,11 @@
         Title="MainWindow" Height="450" Width="800">
     <Grid>
         <StackPanel Orientation="Horizontal">
-            <Button Content="Button1" Height="50" Width="200" FontSize="12" Margin="10" Padding="10"/>
-            <Button Content="Button2" Height="50"/>
-            <Button Content="Button3" Height="50"/>
-            <Button Content="Button4" Height="50"/>
-            <Button Content="Button5" Height="50"/>
+            <Button Content="Button1"  Width="135" Margin="15 10" />
+            <Button Content="Button2"  Width="135" Margin="10"/>
+            <Button Content="Button3"  Width="135" Margin="10"/>
+            <Button Content="Button4"  Width="135" Margin="10" />
+            <Button Content="Button5"  Width="135" Margin="10"/>
         </StackPanel>
     </Grid>
 </Window>

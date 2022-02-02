@@ -12,3 +12,4 @@ C:\Users\User\Documents\GitHub\OOD_Labs\Lab2\Lab2\Lab2Q2\obj\Debug\Stack.csproj.
 C:\Users\User\Documents\GitHub\OOD_Labs\Lab2\Lab2\Lab2Q2\obj\Debug\Stack.csproj.CoreCompileInputs.cache
 C:\Users\User\Documents\GitHub\OOD_Labs\Lab2\Lab2\Lab2Q2\obj\Debug\Lab2Q2.exe
 C:\Users\User\Documents\GitHub\OOD_Labs\Lab2\Lab2\Lab2Q2\obj\Debug\Lab2Q2.pdb
+C:\Users\User\Documents\GitHub\OOD_Labs\Lab2\Lab2\Lab2Q2\obj\Debug\Stack.csproj.AssemblyReference.cache
