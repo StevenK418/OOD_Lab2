@@ -8,6 +8,6 @@ Github details:
 	
 Developer notes: 
 			=>	Details on the exercise number and task can be found in 
-				XML comments at the top of the xaml file. 
+				XML comments at the top of the xaml file for each project respectively. 
 	
 	
